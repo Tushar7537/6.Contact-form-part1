@@ -1,0 +1,42 @@
+.navbar-brand img{
+ max-width: 50px;
+}
+
+.nav-link{
+	color: white;
+}
+
+img{
+	max-width: 100%;
+}
+
+section {
+    background: #000000f0;
+    color: black;
+    background-image: url(../images/College-Puzzle-BG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: color-dodge;
+}
+
+.about-section{
+	padding: 90px;
+}
+
+.about-section h1{
+	font-size: 58px;
+}
+
+
+.about-section p{
+	font-size: 20px;
+}
+.signup-section{margin-top: 25px;}
+
+.signup{
+	padding: 3px;
+}
+
+.signin-logo img{
+	max-width: 40px;
+}
